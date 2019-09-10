@@ -1,0 +1,24 @@
+# EXTM3U
+
+
+#PLAYLISTV: LISTA WN-logo = "http://www.372wn.com/ewExternalFiles/dingbatfff.png"
+
+#EXTINF: -1, LISTA WN DESENHOS # LISTA WN
+WALACE LISTA
+
+########################################################################################################CRÉDITOS
+## LISTA WN DESENHOS. DEIXO OS DEVIDOS CREDITOS! ACESSE WWW.LHMTV.NET - O MELHOR DO IPTV! ##
+
+########################################################################################################DESENHOS
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/tvbabys.png" group-title="LHMTv Babys" ,Patati Patata - Volta ao mundo
+http://thor.lhmtv.gq/babys/P.P-P.V.ao.Mundo.LHMTv.mp4?LISTAWN
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/tvbabys.png" group-title="LHMTv Babys" ,Patati Patata - Pre Escola
+http://thor.lhmtv.gq/babys/P.P-P.E.LHMTv.mp4?LISTAWN
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/tvbabys.png" group-title="LHMTv Babys" ,Patati Patata - Os Grandes Sucessos
+http://thor.lhmtv.gq/babys/P.P-O.G.S.LHMTv.mp4?LISTAWN
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/tvbabys.png" group-title="LHMTv Babys" ,Patati Patata - A Vida e Bela
+http://thor.lhmtv.gq/babys/P.P-A.V.e.B3l4.LHMTv.mp4?LISTAWN
